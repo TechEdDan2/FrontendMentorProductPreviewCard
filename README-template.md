@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/TechEdDan2/FrontendMentorProductPreviewCard)
+- Live Site URL: [Live site URL](https://techeddan2.github.io/FrontendMentorProductPreviewCard/)
 
 ## My process
 
@@ -53,6 +53,3 @@ I am pretty happy with how this turned out, but would always like feedback on ho
 - Website - [My Website is Under Construction](https://dannycreatescscontent.com/#)
 - Frontend Mentor - [@TechEdDan2](https://www.frontendmentor.io/profile/TechEdDan2)
 - Twitter - [@TechEdDan](https://twitter.com/TechEdDan)
-
-
-
