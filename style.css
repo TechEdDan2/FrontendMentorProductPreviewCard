@@ -30,7 +30,7 @@ body {
 /*      ---        */
 /* Main Container  */
 /*      ---        */
-.container {
+main {
     display: flex;
     width: 600px;
     margin-left: auto;
@@ -131,7 +131,7 @@ body {
 
 /* Attribution Footer */
 .attribution {
-    font-size: 11px;
+    font-size: 0.688rem;
     text-align: center;
 }
 
@@ -141,7 +141,7 @@ body {
 
 /* Mobile */
 @media (max-width:650px) {
-    .container {
+    main {
         flex-direction: column;
         width: 400px;
     }
